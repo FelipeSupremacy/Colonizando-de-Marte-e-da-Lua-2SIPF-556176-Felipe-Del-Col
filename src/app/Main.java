@@ -1,11 +1,14 @@
+
+// Nome do Projeto escolhido: "Colonização de Marte e da Lua"
+//---------------------
+// Nome dos integrantes do grupo
+// Nome: Felipe Del Col - RM: 556176
+// Nome: Bruno Pereira Tavares - RM: 562151
+// Nome: Enzo Oliveira Joaquim - RM: 571952
+
 package app;
 
 import service.SistemaColonizacao;
-
-// Nome: Felipe Del Col
-// RM: 556176
-// Nome do Projeto escolhido: "Colonização de Marte e da Lua"
-
 
 public class Main {
 
